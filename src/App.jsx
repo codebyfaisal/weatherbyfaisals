@@ -7,7 +7,7 @@ function App() {
   const [weather, setWeather] = useState(false);
 
   const getData = async () => {
-    const url = `.netlify/functions/hello?city=${city}`
+    const url = `.netlify/functions/weatherdata?city=${city}`
 
     try {
       console.log('data loading...');
