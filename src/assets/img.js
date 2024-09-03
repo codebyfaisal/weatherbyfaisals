@@ -1,0 +1,25 @@
+import empty from './empty.png'
+import wind from './wind.png'
+import humidity from './humidity.png'
+
+import d01 from './clouds/01d.png'
+import n01 from './clouds/01n.png'
+import d02 from './clouds/02d.png'
+import n02 from './clouds/02n.png'
+import d03 from './clouds/03d.png'
+import n03 from './clouds/03n.png'
+import d04 from './clouds/04d.png'
+import n04 from './clouds/04n.png'
+import d09 from './clouds/09d.png'
+import n09 from './clouds/09n.png'
+import d10 from './clouds/10d.png'
+import n10 from './clouds/10n.png'
+import d11 from './clouds/11d.png'
+import n11 from './clouds/11n.png'
+import d13 from './clouds/13d.png'
+import n13 from './clouds/13n.png'
+import d50 from './clouds/50d.png'
+import n50 from './clouds/50n.png'
+
+
+export { empty, wind, humidity, d01, n01, d02, n02, d03, n03, d04, n04, d09, n09, d10, n10, d11, n11, d13, n13, d50, n50 }
